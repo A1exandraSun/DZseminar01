@@ -1,0 +1,15 @@
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\bin\Debug\net6.0\Zadacha02.exe
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\bin\Debug\net6.0\Zadacha02.deps.json
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\bin\Debug\net6.0\Zadacha02.runtimeconfig.json
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\bin\Debug\net6.0\Zadacha02.dll
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\bin\Debug\net6.0\Zadacha02.pdb
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.csproj.AssemblyReference.cache
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.AssemblyInfoInputs.cache
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.AssemblyInfo.cs
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.csproj.CoreCompileInputs.cache
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.dll
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\refint\Zadacha02.dll
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.pdb
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\Zadacha02.genruntimeconfig.cache
+C:\Users\Sunshine\Desktop\DZsem.1C#\Zadacha02\obj\Debug\net6.0\ref\Zadacha02.dll
